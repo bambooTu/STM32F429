@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cortex-debug.armToolchainPath": "",
+		"cortex-debug.openocdPath": "c:\\Users\\User\\.vscode\\extensions\\buzzyelectronics.stm-helper-1.2.9\\OpenOCD\\bin\\openocd",
+		"files.associations": {
+			"l3gd20.h": "c",
+			"usb_host.h": "c"
+		}
+	}
+}
